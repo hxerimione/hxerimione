@@ -1,5 +1,5 @@
 # JANG HAERIM 🍒
-
+### Backend Developer
 # Tech Stack 🛠
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
@@ -15,7 +15,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:purejang98@gmail.com)](mailto:purejang98@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:purejang98@naver.com)](mailto:purejang98@naver.com)
 
-
+# Stats 📊
 
 ![hxerimione's GitHub stats](https://github-readme-stats.vercel.app/api?username=hxerimione&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hxerimione)](https://solved.ac/hxerimione/)
