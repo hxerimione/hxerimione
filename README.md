@@ -4,13 +4,14 @@
 
 ![hxerimione's GitHub stats](https://github-readme-stats.vercel.app/api?username=hxerimione&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hxerimione)](https://solved.ac/hxerimione/)
+
 # Tech Stack 🛠
 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-green.svg?style=for-the-badge&logo=spring&logoColor=white)
-![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white)
-![MySql Badge](https://img.shields.io/badge/-MySql-yellow?style=for-the-badge&logo=Mysql&logoColor=white)
-![MongoDB Badge](https://img.shields.io/badge/-MongoDB-purple?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-green.svg?style=flat-square&logo=spring&logoColor=white)
+![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springBoot&logoColor=white)
+![MySql Badge](https://img.shields.io/badge/-MySql-yellow?style=flat-square&logo=Mysql&logoColor=white)
+![MongoDB Badge](https://img.shields.io/badge/-MongoDB-purple?style=flat-square&logo=MongoDB&logoColor=white)
 
 # Contacts 💌
 
