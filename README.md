@@ -6,7 +6,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hxerimione)](https://solved.ac/hxerimione/)
 # Tech Stack 🛠
 
-![Java Badge](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-green.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white)
