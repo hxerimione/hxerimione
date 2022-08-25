@@ -1,4 +1,4 @@
-# JANG HAERIM 🍒
+# JANG HYERIM 🍒
 ### Backend Developer
 # Tech Stack 🛠
 
