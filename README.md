@@ -3,6 +3,7 @@
 # Tech Stack 🛠
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-green.svg?style=flat-square&logo=spring&logoColor=white)
 ![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springBoot&logoColor=white)
 ![MySql Badge](https://img.shields.io/badge/-MySql-yellow?style=flat-square&logo=Mysql&logoColor=white)
